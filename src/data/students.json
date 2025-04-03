@@ -1,0 +1,292 @@
+
+[
+  {
+    "id": 1,
+    "name": "ASHA (X)",
+    "grade": 6,
+    "fees": {
+      "MARCH": "paid",
+      "APRIL": "unpaid",
+      "MAY": "unpaid",
+      "JUNE": "unpaid",
+      "JULY": "unpaid",
+      "AUGUST": "unpaid",
+      "SEPTEMBER": "unpaid",
+      "OCTOBER": "unpaid",
+      "NOVEMBER": "unpaid",
+      "DECEMBER": "unpaid"
+    }
+  },
+  {
+    "id": 2,
+    "name": "FLORIANA (X)",
+    "grade": 7,
+    "fees": {
+      "MARCH": "paid",
+      "APRIL": "paid",
+      "MAY": "unpaid",
+      "JUNE": "unpaid",
+      "JULY": "unpaid",
+      "AUGUST": "unpaid",
+      "SEPTEMBER": "unpaid",
+      "OCTOBER": "unpaid",
+      "NOVEMBER": "unpaid",
+      "DECEMBER": "unpaid"
+    }
+  },
+  {
+    "id": 3,
+    "name": "MARSHI (IX)",
+    "grade": 8,
+    "fees": {
+      "MARCH": "paid",
+      "APRIL": "paid",
+      "MAY": "paid",
+      "JUNE": "unpaid",
+      "JULY": "unpaid",
+      "AUGUST": "unpaid",
+      "SEPTEMBER": "unpaid",
+      "OCTOBER": "unpaid",
+      "NOVEMBER": "unpaid",
+      "DECEMBER": "unpaid"
+    }
+  },
+  {
+    "id": 4,
+    "name": "DHAROS (IX)",
+    "grade": 9,
+    "fees": {
+      "MARCH": "paid",
+      "APRIL": "unpaid",
+      "MAY": "unpaid",
+      "JUNE": "unpaid",
+      "JULY": "unpaid",
+      "AUGUST": "unpaid",
+      "SEPTEMBER": "unpaid",
+      "OCTOBER": "unpaid",
+      "NOVEMBER": "unpaid",
+      "DECEMBER": "unpaid"
+    }
+  },
+  {
+    "id": 5,
+    "name": "DHANA (VIII)",
+    "grade": 10,
+    "fees": {
+      "MARCH": "unpaid",
+      "APRIL": "unpaid",
+      "MAY": "unpaid",
+      "JUNE": "unpaid",
+      "JULY": "unpaid",
+      "AUGUST": "unpaid",
+      "SEPTEMBER": "unpaid",
+      "OCTOBER": "unpaid",
+      "NOVEMBER": "unpaid",
+      "DECEMBER": "unpaid"
+    }
+  },
+  {
+    "id": 6,
+    "name": "DOSHYO (VIII)",
+    "grade": 6,
+    "fees": {
+      "MARCH": "unpaid",
+      "APRIL": "unpaid",
+      "MAY": "unpaid",
+      "JUNE": "unpaid",
+      "JULY": "unpaid",
+      "AUGUST": "unpaid",
+      "SEPTEMBER": "unpaid",
+      "OCTOBER": "unpaid",
+      "NOVEMBER": "unpaid",
+      "DECEMBER": "unpaid"
+    }
+  },
+  {
+    "id": 7,
+    "name": "MONPOR (VIII)",
+    "grade": 7,
+    "fees": {
+      "MARCH": "unpaid",
+      "APRIL": "unpaid",
+      "MAY": "unpaid",
+      "JUNE": "unpaid",
+      "JULY": "unpaid",
+      "AUGUST": "unpaid",
+      "SEPTEMBER": "unpaid",
+      "OCTOBER": "unpaid",
+      "NOVEMBER": "unpaid",
+      "DECEMBER": "unpaid"
+    }
+  },
+  {
+    "id": 8,
+    "name": "RINI (VIII)",
+    "grade": 8,
+    "fees": {
+      "MARCH": "paid",
+      "APRIL": "unpaid",
+      "MAY": "unpaid",
+      "JUNE": "unpaid",
+      "JULY": "unpaid",
+      "AUGUST": "unpaid",
+      "SEPTEMBER": "unpaid",
+      "OCTOBER": "unpaid",
+      "NOVEMBER": "unpaid",
+      "DECEMBER": "unpaid"
+    }
+  },
+  {
+    "id": 9,
+    "name": "UDJOLA (VIII)",
+    "grade": 9,
+    "fees": {
+      "MARCH": "unpaid",
+      "APRIL": "unpaid",
+      "MAY": "unpaid",
+      "JUNE": "unpaid",
+      "JULY": "unpaid",
+      "AUGUST": "unpaid",
+      "SEPTEMBER": "unpaid",
+      "OCTOBER": "unpaid",
+      "NOVEMBER": "unpaid",
+      "DECEMBER": "unpaid"
+    }
+  },
+  {
+    "id": 10,
+    "name": "AWNSUR (VII)",
+    "grade": 10,
+    "fees": {
+      "MARCH": "unpaid",
+      "APRIL": "unpaid",
+      "MAY": "unpaid",
+      "JUNE": "unpaid",
+      "JULY": "unpaid",
+      "AUGUST": "unpaid",
+      "SEPTEMBER": "unpaid",
+      "OCTOBER": "unpaid",
+      "NOVEMBER": "unpaid",
+      "DECEMBER": "unpaid"
+    }
+  },
+  {
+    "id": 11,
+    "name": "JONSON (VII)",
+    "grade": 6,
+    "fees": {
+      "MARCH": "unpaid",
+      "APRIL": "unpaid",
+      "MAY": "unpaid",
+      "JUNE": "unpaid",
+      "JULY": "unpaid",
+      "AUGUST": "unpaid",
+      "SEPTEMBER": "unpaid",
+      "OCTOBER": "unpaid",
+      "NOVEMBER": "unpaid",
+      "DECEMBER": "unpaid"
+    }
+  },
+  {
+    "id": 12,
+    "name": "JEENU (VII)",
+    "grade": 7,
+    "fees": {
+      "MARCH": "paid",
+      "APRIL": "unpaid",
+      "MAY": "unpaid",
+      "JUNE": "unpaid",
+      "JULY": "unpaid",
+      "AUGUST": "unpaid",
+      "SEPTEMBER": "unpaid",
+      "OCTOBER": "unpaid",
+      "NOVEMBER": "unpaid",
+      "DECEMBER": "unpaid"
+    }
+  },
+  {
+    "id": 13,
+    "name": "JEISY (VII)",
+    "grade": 8,
+    "fees": {
+      "MARCH": "unpaid",
+      "APRIL": "unpaid",
+      "MAY": "unpaid",
+      "JUNE": "unpaid",
+      "JULY": "unpaid",
+      "AUGUST": "unpaid",
+      "SEPTEMBER": "unpaid",
+      "OCTOBER": "unpaid",
+      "NOVEMBER": "unpaid",
+      "DECEMBER": "unpaid"
+    }
+  },
+  {
+    "id": 14,
+    "name": "ARIZ (VI)",
+    "grade": 9,
+    "fees": {
+      "MARCH": "paid",
+      "APRIL": "paid",
+      "MAY": "unpaid",
+      "JUNE": "unpaid",
+      "JULY": "unpaid",
+      "AUGUST": "unpaid",
+      "SEPTEMBER": "unpaid",
+      "OCTOBER": "unpaid",
+      "NOVEMBER": "unpaid",
+      "DECEMBER": "unpaid"
+    }
+  },
+  {
+    "id": 15,
+    "name": "NIRIBILI (VI)",
+    "grade": 10,
+    "fees": {
+      "MARCH": "paid",
+      "APRIL": "unpaid",
+      "MAY": "unpaid",
+      "JUNE": "unpaid",
+      "JULY": "unpaid",
+      "AUGUST": "unpaid",
+      "SEPTEMBER": "unpaid",
+      "OCTOBER": "unpaid",
+      "NOVEMBER": "unpaid",
+      "DECEMBER": "unpaid"
+    }
+  },
+  {
+    "id": 16,
+    "name": "BUDDHA MOI (VI)",
+    "grade": 6,
+    "fees": {
+      "MARCH": "unpaid",
+      "APRIL": "unpaid",
+      "MAY": "unpaid",
+      "JUNE": "unpaid",
+      "JULY": "unpaid",
+      "AUGUST": "unpaid",
+      "SEPTEMBER": "unpaid",
+      "OCTOBER": "unpaid",
+      "NOVEMBER": "unpaid",
+      "DECEMBER": "unpaid"
+    }
+  },
+  {
+    "id": 17,
+    "name": "NOJOR (VI)",
+    "grade": 6,
+    "fees": {
+      "MARCH": "paid",
+      "APRIL": "unpaid",
+      "MAY": "unpaid",
+      "JUNE": "unpaid",
+      "JULY": "unpaid",
+      "AUGUST": "unpaid",
+      "SEPTEMBER": "unpaid",
+      "OCTOBER": "unpaid",
+      "NOVEMBER": "unpaid",
+      "DECEMBER": "unpaid"
+    }
+  }
+]
