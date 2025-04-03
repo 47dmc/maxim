@@ -23,13 +23,13 @@ const App = () => {
             <table className="min-w-full divide-y divide-gray-200">
               <thead className="sticky top-0 z-20"> {/* Adjusted to exact pixel value */}
                 <tr className="bg-black">
-                  <th className="sticky left-0 px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider bg-black z-30">
+                  <th className="sticky left-0 px-4 py-3 text-left text-xs font-medium text-white uppercase tracking-wider bg-black z-30">
                     Student Name
                   </th>
                   {months.map((month) => (
                     <th
                       key={month}
-                      className="sticky top-0 px-3 py-3 text-center text-xs font-medium text-gray-500 uppercase tracking-wider bg-black z-20"
+                      className="sticky top-0 px-3 py-3 text-center text-xs font-medium text-white uppercase tracking-wider bg-black z-20"
                     >
                       {month}
                     </th>
@@ -39,7 +39,7 @@ const App = () => {
               <tbody className="bg-white divide-y divide-gray-200">
                 {studentsData.map((student) => (
                   <tr key={student.id}>
-                    <td className="sticky left-0 px-4 py-4 whitespace-nowrap text-sm font-medium text-gray-900 bg-white z-10">
+                    <td className="sticky left-0 px-4 py-4 whitespace-nowrap text-xs font-medium text-gray-900 bg-white z-10">
                       {student.name}
                     </td>
                     {months.map((month) => (

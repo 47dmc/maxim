@@ -257,23 +257,6 @@
   },
   {
     "id": 16,
-    "name": "BUDDHA MOI (VI)",
-    "grade": 6,
-    "fees": {
-      "MARCH": "unpaid",
-      "APRIL": "unpaid",
-      "MAY": "unpaid",
-      "JUNE": "unpaid",
-      "JULY": "unpaid",
-      "AUGUST": "unpaid",
-      "SEPTEMBER": "unpaid",
-      "OCTOBER": "unpaid",
-      "NOVEMBER": "unpaid",
-      "DECEMBER": "unpaid"
-    }
-  },
-  {
-    "id": 17,
     "name": "NOJOR (VI)",
     "grade": 6,
     "fees": {
