@@ -125,7 +125,7 @@
     "grade": 8,
     "fees": {
       "MARCH": "paid",
-      "APRIL": "unpaid",
+      "APRIL": "paid",
       "MAY": "unpaid",
       "JUNE": "unpaid",
       "JULY": "unpaid",
@@ -141,7 +141,7 @@
     "name": "UDJOLA (VIII)",
     "grade": 9,
     "fees": {
-      "MARCH": "unpaid",
+      "MARCH": "paid",
       "APRIL": "unpaid",
       "MAY": "unpaid",
       "JUNE": "unpaid",
