@@ -73,7 +73,7 @@
     "name": "DHANA (VIII)",
     "grade": 10,
     "fees": {
-      "MARCH": "unpaid",
+      "MARCH": "paid",
       "APRIL": "unpaid",
       "MAY": "unpaid",
       "JUNE": "unpaid",
@@ -175,7 +175,7 @@
     "name": "JONSON (VII)",
     "grade": 6,
     "fees": {
-      "MARCH": "unpaid",
+      "MARCH": "paid",
       "APRIL": "unpaid",
       "MAY": "unpaid",
       "JUNE": "unpaid",
